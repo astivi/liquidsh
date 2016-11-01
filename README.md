@@ -3,7 +3,9 @@ liquidsh
 
 Just a simple liquid parser from shell
 
-#Usage
+Usage
+-----
+
 + Install Ruby
 + sudo gem install bundler
 + bundle
